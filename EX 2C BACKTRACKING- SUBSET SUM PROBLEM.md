@@ -19,9 +19,9 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 
 ## Program:
 
-Developed by:   
+Developed by: GANESH R
 
-Register Number:  
+Register Number:  212222240029
 
 ```python
 def SubsetSum(a,i,sum,target,n):
