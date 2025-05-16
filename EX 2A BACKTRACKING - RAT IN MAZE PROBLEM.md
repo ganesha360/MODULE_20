@@ -21,9 +21,9 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 
 ## Program:
 
-Developed by: Kishore S
+Developed by: GANESH R
 
-Register Number:  212222240050
+Register Number:  212222240029
 
 ```python
 N = 4
