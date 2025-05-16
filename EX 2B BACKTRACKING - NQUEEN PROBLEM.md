@@ -14,9 +14,9 @@ To solve the N-Queen problem using backtracking, which places N queens on an N*N
 4. Repeat the process until all N queens are placed; record the solution when the base case (row == N) is reached. 
 
 ## Program:
-Developed by: Kishore S
+Developed by: GANESH R
 
-Register Number: 212222240050  
+Register Number:  212222240029
 ```python
 global N
 N = int(input())
